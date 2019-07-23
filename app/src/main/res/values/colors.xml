@@ -13,6 +13,7 @@
     <color name="transaction_detail_table_header_bg">#8ada6134</color>
     <color name="blue">#ff003fff</color>
     <color name="red">#FF0000</color>
+    <color name="light_black">#1C1C1C</color>
 
     <color name="dashboard_gray_background">#B2C1C8</color>
 
@@ -57,6 +58,8 @@
     <color name="secondary_text">#757575</color>
     <color name="icons">#FFFFFF</color>
     <color name="divider">#BDBDBD</color>
+    <color name="cell_background_color">#ffffff</color>
+    <color name="header_line_color">@color/blue_light</color>
 
     <!--Swipe Refresh Colors-->
     <array name="swipeRefreshColors">
